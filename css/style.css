@@ -1,0 +1,128 @@
+body{
+      background-image: url(../css/img/fondo.jpg);
+      background-attachment: fixed;
+      background-position: center top;
+      background-size: cover;
+      height: 1500px;
+      width: 1500px;
+      margin: 10px;
+      
+}
+  
+.float {
+    float: left;
+    background-position: relative;}
+
+.navegacion{
+    width: 600px;
+    margin: 50px 10px 5px 880px;
+    background: #ffffff17;
+    background-position: top left;
+    
+  }
+
+
+  .navegacion ul li a{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    word-break: normal;
+    text-align: justify;
+
+  }
+
+  .navegacion ul li :hover  {
+      color: rgba(139, 138, 138, 0.363);
+      transition: all 0.3s;
+  }
+  
+  .navegacion ul li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+  }
+
+  section#Home {
+    height: 600px;
+}
+
+section#Discografia {
+    height: 500px;
+    width: 1400px;
+    background: rgba(121, 117, 117, 0.329);
+    margin: auto;
+}
+
+section#Discografia p{
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: #ffffff;
+    word-spacing: 2px;
+    letter-spacing: 10;
+    line-height: 35px;
+    text-align: justify;
+    width: 35%;
+    margin: 30px;
+    left: 300px;
+    max-width: 1200px;
+    min-width: 400;
+    transform: translate(10px, 20px);
+}
+
+.disco{
+    list-style: none;
+    position: absolute;
+    right: 170px;
+    width: 450px;
+
+}
+
+.disco p{
+   
+    transform: translate(10px, 20px);
+   
+   
+}
+
+.disco li img {
+    width:100%;
+    display: inline-block;
+    right: 50px;
+   
+}
+
+/*.disco li .album{
+    background: rgba(0, 0, 0, 0.274);
+    width: 50%;
+    color: white;
+
+    display: inline-block;
+    background-position: left;
+}
+
+.disco li:hover .album {
+    display: block;
+}
+*/
+
+section#Fotos{
+    margin: auto;
+    background-color: #ffffff42;
+    height: auto;
+    width: 1400px;
+
+    
+
+}
+
+
+
+   
+
+    
