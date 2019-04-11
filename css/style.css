@@ -20,8 +20,6 @@ body{
     background-position: top left;
     
   }
-
-
   .navegacion ul li a{
     list-style: none;
     display: inline-block;
@@ -116,8 +114,6 @@ section#Fotos{
     background-color: #ffffff42;
     height: auto;
     width: 1400px;
-
-    
 
 }
 
