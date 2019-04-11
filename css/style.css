@@ -94,6 +94,7 @@ section#Discografia p{
     right: 50px;
    
 }
+/*text*/
 
 /*.disco li .album{
     background: rgba(0, 0, 0, 0.274);
@@ -108,7 +109,6 @@ section#Discografia p{
     display: block;
 }
 */
-
 section#Fotos{
     margin: auto;
     background-color: #ffffff42;
